@@ -1,0 +1,13 @@
+ $ git clone https://github.com/nutti/Blender-Add-on-Manager.git
+ $ cd Blender-Add-on-Manager
+ $ npm install
+ $ bower install
+ $ gulp
+
+ $ npm run build     # for Windows/linux
+
+or
+
+ $ git-lfs pull
+ $ node build_mac.js     # for macOS
+ 
